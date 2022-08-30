@@ -1,6 +1,3 @@
-#group,false,false,false,false,false,false
-#datatype,string,long,dateTime:RFC3339,double,double,double
-#default,mean,,,,,
 ,result,table,_time,active_energy_Wh,active_power_W,reactive_energy_Varh
 ,,0,2022-03-02T09:04:00Z,32306.840938065525,153.92643221781054,-153230.37165208114
 ,,0,2022-03-02T21:12:00Z,33279.996815747574,19.872910334346503,-157434.44098867572
